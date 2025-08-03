@@ -54,10 +54,12 @@ main{
 h1{
   font-family: "Bitcount Prop Single", system-ui;
   color: rgb(187, 74, 74);
+  font-style: 120px;
 }
 
 p{
      font-family: "Roboto Condensed", sans-serif;
+     font-size: 80px;
 }
 
 
@@ -67,16 +69,19 @@ p{
     display: inline-block;
     padding: auto;
     margin: auto;
-    font-size: 300px;
+    font-size: 67px;
 }
 
 .ul{
   margin-left: 40px;
 }
 
-#f1, #f2, #f3{
+#f1, #f2, #f3, #f4{ 
   padding-left: 60px;
   border: 6px solid white;
   border-radius: 5px;
 }
 
+.track{
+  display: inline-block;
+}
