@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitcount+Prop+Single:wght@100..900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+  background-image: url(img/bg.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  color: DarkTurquoise;
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+
+
+
+a{
+    text-decoration: none;
+    color: MediumSlateBlue;
+     margin-right: 40px;
+     font-size: 67px;
+}
+
+.rie{
+    height: 250px;
+    width: 250px;
+    margin: 0px;
+    padding: 0%;
+    border-radius: 6px;
+    border: 2px solid white;
+}
+.class{
+    align-items: normal;
+    border-radius: 10px;
+    height: 300px;
+    width: 300px;
+    display: inline;
+    border: 2px solid white;
+}
+.logo{
+    display: inline
+}
+
+main{
+    font-size: 100px;
+    
+}
+
+
+.comic-relief-bold {
+  font-family: "Comic Relief", system-ui;
+  font-weight: 700;
+  font-style: normal;
+}
+
+
+h1{
+  font-family: "Bitcount Prop Single", system-ui;
+  color: SteelBlue;
+  font-style: 120px;
+}
+
+p{
+     font-family: "Roboto Condensed", sans-serif;
+     font-size: 80px;
+}
+
+
+.button{
+    color: white;
+    background-color: aquamarine;
+    display: inline-block;
+    padding: auto;
+    margin: auto;
+    font-size: 67px;
+}
+
+.ul{
+  margin-left: 40px;
+}
+
+#f1, #f2, #f3, #f4{ 
+  padding-left: 60px;
+  border: 6px solid white;
+  border-radius: 5px;
+}
+
+.track{
+  display: inline-block;
+}
+
+.backnav{
+  color: lightblue;
+    background-color: aquamarine;
+    display: inline-block;
+    padding: auto;
+    margin: auto;
+    font-size: 67px;
+}
